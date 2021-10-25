@@ -12,7 +12,7 @@ Topics covered
 - [x] Convolutional Neural Network Theory
 - [x] Convolutional Neural Network
 - [x] Reccurent Neural Network Theory
-- [ ] Recurrent Neural Network Sentiment Analysis
+- [x] Recurrent Neural Network Sentiment Analysis
 - [ ] Recurrent Neural Network Text Generation
 - [ ] Reinforcement Learning Theory
 - [ ] Reinforcement Learning with Q learning Example
