@@ -11,7 +11,8 @@ Topics covered
 - [x] Vanilla Neural Network (Multi-Layer Perceptron)
 - [x] Convolutional Neural Network Theory
 - [x] Convolutional Neural Network
-- [ ] Reccurent Neural Network Theory
-- [ ] Recurrent Neural Network
+- [x] Reccurent Neural Network Theory
+- [ ] Recurrent Neural Network Sentiment Analysis
+- [ ] Recurrent Neural Network Text Generation
 - [ ] Reinforcement Learning Theory
 - [ ] Reinforcement Learning with Q learning Example
